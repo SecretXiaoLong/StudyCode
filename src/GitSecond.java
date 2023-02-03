@@ -6,5 +6,7 @@ public class GitSecond {
 
 
         System.out.println("Idea_git");
+
+        System.out.println("代码冲突1");
     }
 }
