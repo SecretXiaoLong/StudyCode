@@ -14,5 +14,7 @@ public class GitSecond {
         System.out.println("测试Pull   Pull");
 
         System.out.println("测试ssh推送到GitHub");
+        
+        System.out.println("测试ssh拉取到本地");
     }
 }
