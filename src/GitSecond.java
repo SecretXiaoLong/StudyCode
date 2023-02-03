@@ -10,5 +10,7 @@ public class GitSecond {
         System.out.println("代码冲突1");
 
         System.out.println("测试推送到GitHub");
+        
+        System.out.println("测试Pull   Pull");
     }
 }
